@@ -1,11 +1,16 @@
 _repo: The-new-air-world-b-The-science-of-meteorology-simplified_75114
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75114-h/images/cover-orig.jpg
 creator:
   author:
     agent_name: Moore, Willis Luther
     gutenberg_agent_id: '57835'
     url: http://www.gutenberg.org/2009/agents/57835
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75114#The-new-air-world-b-The-science-of-meteorology-simplified
 gutenberg_issued: '2025-01-15'
 gutenberg_type: Text
 identifiers:
